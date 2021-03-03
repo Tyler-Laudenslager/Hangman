@@ -10,6 +10,7 @@ run
 
 import nltk
 nltk.download('words')
+nltk.download('wordnet')
 
 then run
 
